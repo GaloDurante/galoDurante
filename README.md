@@ -1,5 +1,5 @@
 # About Me:
-I am a software developer with a passion for new technologies and a drive to continuously learn. I possess a strong technical background and a solid foundation in various programming languages. My expertise also extends to soft skills such as communication, teamwork, and leadership. I am eager to bring my skills to a team and work on exciting projects that challenge me to grow both professionally and personally.
+I am a software developer with a passion for new technologies and a drive to continuously learn. I possess a strong technical background and a solid foundation in various programming languages. My experience also extends to soft skills such as communication, teamwork, and leadership. I am eager to bring my skills to a team and work on exciting projects that challenge me to grow both professionally and personally.
 
 
 ## 🌐 Socials:
