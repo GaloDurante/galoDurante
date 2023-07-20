@@ -7,7 +7,7 @@
   <b>I'm a passionate programmer who loves to code</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
@@ -15,8 +15,6 @@
 - 🌱 I’m currently focusing on **Backend Web Development** and **Frontend Web Development**.
 <br>
 <h2>Tech stack</h2>
-<br>
-<br>
 <br>
 <p align="center">
   <b>Languages</b>
