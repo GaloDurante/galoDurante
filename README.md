@@ -51,7 +51,7 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
   <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
+    <code><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></code>
   </a>
 </p>
 <br>
@@ -67,9 +67,6 @@
   <br>
   <a href="https://expressjs.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
   </a>
   <a href="https://spring.io" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
@@ -103,6 +100,7 @@
   <br>
   <a href="https://www.electronjs.org" target="_blank">
     <code><img src="https://skillicons.dev/icons?i=git"/></code>
+	  <code><img src="https://skillicons.dev/icons?i=vercel"/></code>
     <code><img src="https://skillicons.dev/icons?i=figma"/></code>
     <code><img src="https://skillicons.dev/icons?i=firebase"/></code>
     <code><img src="https://skillicons.dev/icons?i=github"/></code>
