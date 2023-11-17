@@ -10,9 +10,8 @@
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 👨🏻‍💻 I'm looking for my first job experience..
-- 🌱 I’m currently focusing on **Backend Web Development** and **Frontend Web Development**.
+- ♑ I'm creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- 🌱 I’m currently focusing on **Frontend Web Development**.
 <br>
 <h2>Tech stack</h2>
 <br>
