@@ -9,6 +9,8 @@
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
+<br>
+<br>
 
 - ♑ I'm creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 🌱 I’m currently focusing on **Frontend Web Development**.
