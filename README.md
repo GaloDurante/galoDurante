@@ -17,22 +17,6 @@
 <br>
 <h2>Tech stack</h2>
 <br>
-<p align="center">
-  <b>Languages</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  </a>
-</p>
-<br>
-<br>
 
 <p align="center">
   <b>Frontend</b>
@@ -48,6 +32,9 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
   <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Vite" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=vite" alt="ViteJS" height="40"/></code>
+  </a>
   <a href="https://reactjs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
@@ -55,43 +42,6 @@
     <code><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></code>
   </a>
 </p>
-<br>
-<br>
-
-<p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
-</p>
-<br>
-<br>
-
-<p align="center">
-  <b>System and DB</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
- <a href="https://skillicons.dev">
-    <code><img src="https://skillicons.dev/icons?i=mongodb" /></code>
- </a>
- <a href="https://mysql.com">
-    <code><img src="https://skillicons.dev/icons?i=mysql" /></code>
-  </a>
-  <br>
-</p>
-
 <br>
 <br>
 
