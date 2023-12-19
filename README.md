@@ -60,20 +60,6 @@
   </a>
 </p>
 
-<!-- My Activity -->
-<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
-  <p align="center">
-    <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galoDurante&layout=compact&theme=dark" height="192px"/>
-    <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=galoDurante&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
-    <br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
 <!-- Connection -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
